@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🐾 Petshop Care
 
-## Getting Started
+Este projeto foi desenvolvido com base no tutorial do vídeo [🎥 Criando um site moderno com Next.js e Tailwind CSS](https://www.youtube.com/watch?v=5tpX4iTdg5A) do canal [📺 Sujeito Programador](https://www.youtube.com/@sujeitoprogramador).
 
-First, run the development server:
+## 🐶 Sobre o Projeto
+
+O **Petshop Care** é um site fictício criado para demonstrar a construção de uma aplicação moderna utilizando **Next.js** e **Tailwind CSS**. O objetivo principal é apresentar um design responsivo e funcional voltado para um petshop.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Next.js**: Framework React para desenvolvimento web moderno.
+- **Tailwind CSS**: Framework CSS para estilização rápida e eficiente.
+- **Phosphor Icons** e **Lucide Icons**: Bibliotecas de ícones para enriquecer a interface.
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/MonicaAlvesP/petshop-care.git
+```
+
+2. Navegue até o diretório do projeto:
+
+```bash
+cd petshop-care
+```
+
+3. Instale as dependências necessárias:
+
+```bash
+npm install
+```
+
+4. Inicie o servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. Acesse o projeto no navegador em `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+💡 Desenvolvido com fins educacionais por [Monica Alves](https://github.com/MonicaAlvesP).
